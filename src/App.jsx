@@ -1,4 +1,3 @@
-import './App.css';
 import Hero  from './components/Hero';
 import { FirstSection, SecondSection, ThirdSection } from './components/Sections'
 import CallToAction from './components/CTA';

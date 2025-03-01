@@ -1,3 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import "tailwindcss" prefix(tw);
+
+@theme {
+    --color-clipboard-strong-cyan: hsl(171, 66%, 44%);
+    --color-clipboard-light-blue: hsl(233, 100%, 69%);
+    --color-clipboard-grayish-blue: hsl(240, 2%, 79%);
+    --color-clipboard-very-dark-blue: hsl(207, 13%, 34%);
+    --font-bai-jamjuree: 'Bai Jamjuree', sans-serif;
+}
