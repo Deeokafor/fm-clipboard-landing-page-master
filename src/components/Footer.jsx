@@ -6,7 +6,7 @@ function Footer() {
             </div>
 
             <div className="tw:capitalize">
-                <ul className="tw:text-center tw:grid tw:gap-7 tw:my-12">
+                <ul className="tw:text-center tw:grid tw:gap-7 tw:my-12 tw:font-medium">
                     <li>FAQs</li>
                     <li>contact us</li>
                     <li >privacy policy</li>
