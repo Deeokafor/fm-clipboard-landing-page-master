@@ -3,7 +3,7 @@ import { MacButton } from './Buttons';
 
 export default function Hero() {
     return (
-        <header className="tw:min-h-96 tw:px-10 tw:bg-[url(/bg-header-mobile.png)] tw:lg:bg-[url(/bg-header-desktop.png)] tw:bg-contain tw:bg-top tw:bg-no-repeat tw:lg:px-desktop-px-sm">
+        <header className="tw:min-h-96 tw:px-10 tw:bg-[url(/bg-header-mobile.png)] tw:md:bg-cover tw:lg:bg-[url(/bg-header-desktop.png)] tw:bg-contain tw:bg-top tw:bg-no-repeat tw:lg:px-desktop-px-sm">
             <div className="tw:flex tw:flex-col tw:items-center tw:justify-center tw:text-center tw:py-14">
                 <img src="/logo.svg" alt="logo" className='tw:my-14'/>
                 <h1 className="tw:font-semibold tw:text-4xl">A history of everything you copy</h1>
