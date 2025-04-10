@@ -1,0 +1,32 @@
+/*  */
+.hero-title-text {
+    font-size: clamp(1.9rem, 3vw, 7rem);
+}
+
+/*  */
+.hero-p-text {
+    font-size: clamp(1.125rem, 1.3vw, 3.5rem);
+}
+
+/*  */
+.sub-title-text {
+    font-size: clamp(1.725rem, 2.125vw, 3rem);
+}
+
+.sub-title-p-text {
+    font-size: clamp(1rem, 1.125vw, 3.125rem);
+}
+
+/*  */
+.buttons-text {
+    font-size: clamp(1rem, 1.125rem, 3.125rem);
+}
+
+/*  */
+.cards-title {
+    font-size: clamp(1.35rem, 1.52rem, 2rem);
+}
+
+.cards-p-text {
+    font-size: clamp(1rem, 1.025vw, 3.125rem);
+}

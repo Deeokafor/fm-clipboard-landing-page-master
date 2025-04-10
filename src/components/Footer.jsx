@@ -1,6 +1,6 @@
 function Footer() {
     return(
-        <footer className="tw:bg-clipboard-grayish-blue/25 tw:flex tw:flex-col tw:items-center tw:justify-center tw:min-h-96 tw:py-14 tw:lg:flex-row tw:lg:items-start tw:lg:justify-between tw:lg:min-h-0 tw:lg:py-7 tw:lg:px-desktop-px-sm">
+        <footer className="tw:bg-clipboard-grayish-blue/25 tw:flex tw:flex-col tw:items-center tw:justify-center tw:min-h-96 tw:py-14 tw:lg:flex-row tw:lg:items-start tw:lg:justify-between tw:lg:min-h-0 tw:lg:py-7 tw:sm:px-tab-px tw:lg:px-desktop-px-sm tw:min-xl:px-desktop-px-lg">
             <div className="tw:w-16 tw:lg:w-16">
                 <img src="/logo.svg" alt="" className="tw:lg:size-auto"/>
             </div>

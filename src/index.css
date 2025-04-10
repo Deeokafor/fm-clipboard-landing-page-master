@@ -8,14 +8,24 @@
     --color-clipboard-very-dark-blue: hsl(207, 13%, 34%);
     --font-bai-jamjuree: 'Bai Jamjuree', sans-serif;
     --spacing-desktop-px-sm: 9rem;
-    --spacing-desktop-px-lg: 72rem;
+    --spacing-desktop-px-lg: 24rem;
+    --spacing-desktop-px-2xl: 30rem;
+    --spacing-tab-px: 9.125rem;
 }
 
+/* tailwindcss @apply custom classes */
 .subheading-p-text {
     @apply tw:opacity-60;
 }
 
 .cards-p-text {
-    @apply tw:text-[0.9rem] tw:opacity-60
+    @apply tw:text-[0.9rem] tw:opacity-60;
 }
 
+/* .heading-4xl-desktop {
+     @apply tw:text-6xl;
+} */
+
+/* .subheading-4xl-desktop {
+    @apply tw:text-4xl;
+} */
