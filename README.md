@@ -70,5 +70,4 @@ I plan to further strengthen my understanding of React props and explore more ad
 
 
 ## Acknowledgments
-
-null
+- Grateful to Frontend Mentor!!
