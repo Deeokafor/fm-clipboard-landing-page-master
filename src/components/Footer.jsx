@@ -6,24 +6,24 @@ function Footer() {
             </div>
 
             <div className="tw:capitalize tw:lg:w-6/12">
-                <ul className="tw:text-center tw:grid tw:gap-7 tw:my-12 tw:font-medium tw:lg:grid-flow-col tw:lg:grid-rows-2 tw:lg:mt-0 tw:lg:text-left tw:lg:gap-x-20 tw:bg-black">
-                    <li>FAQs</li>
-                    <li>contact us</li>
-                    <li >privacy policy</li>
-                    <li>press kit</li>
-                    <li>installation guide</li>
+                <ul className="tw:text-center tw:grid tw:gap-7 tw:my-12 tw:font-medium tw:lg:grid-flow-col tw:lg:grid-rows-2 tw:lg:mt- tw:lg:text-left">
+                    <li className="tw:hover:text-clipboard-strong-cyan tw:cursor-pointer">FAQs</li>
+                    <li className="tw:hover:text-clipboard-strong-cyan tw:cursor-pointer">contact us</li>
+                    <li className="tw:hover:text-clipboard-strong-cyan tw:cursor-pointer">privacy policy</li>
+                    <li className="tw:hover:text-clipboard-strong-cyan tw:cursor-pointer">press kit</li>
+                    <li className="tw:hover:text-clipboard-strong-cyan tw:cursor-pointer">installation guide</li>
                 </ul>
             </div>
 
             <div className="tw:flex tw:gap-14 tw:items-center tw:lg:gap-9">
                 <a href="">
-                    <img src="/icon-facebook.svg" alt="" />
+                    <img src="/public/icon-facebook.svg" alt="" className="tw:hover:bg-grey"/>
                 </a>
                 <a href="">
-                    <img src="/icon-twitter.svg" alt="" />
+                    <img src="/public/icon-twitter.svg" alt=""/>
                 </a>
                 <a href="">
-                    <img src="/icon-instagram.svg" alt="" />
+                    <img src="/public/icon-instagram.svg" alt=""/>
                 </a>
             </div>
         </footer>

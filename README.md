@@ -65,8 +65,8 @@ I plan to further strengthen my understanding of React props and explore more ad
 ## Author
 
 - Website - [Divine Okafor-udah](https://deedev.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/deeokafor)
-- Twitter - [@deeokaor](https://www.twitter.com/dee_okafor)
+- Frontend Mentor - [@deeokafor](https://www.frontendmentor.io/profile/deeokafor)
+- Twitter - [@dee_okafor](https://www.twitter.com/dee_okafor)
 
 
 ## Acknowledgments
